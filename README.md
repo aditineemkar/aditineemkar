@@ -1,4 +1,3 @@
-[App_Developer.pdf](https://github.com/aditineemkar/aditineemkar/files/6377021/App_Developer.pdf)
 ### Hi there 👋
 
 #### Hi I am Aditi Neemkar, I am interested in :
