@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Hi I am Aditi Neemkar 13 years old, I am interested in :
-* Learning many new computer languages as : JS, JSX, HTML, CSS, Python, Unity..........
+* Learning many new computer languages like : JS, JSX, HTML, CSS, Python, Unity..........
 * Improving my sports skills, that are: VolleyBall, Atheletics and chess
 * Stop doing mistakes
 
